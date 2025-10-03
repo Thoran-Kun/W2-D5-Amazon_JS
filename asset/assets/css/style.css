@@ -1,1 +1,156 @@
 /* Your styles here */
+/* HEADER */
+body {
+  background-color: #e9edee;
+}
+
+header {
+  width: 100%;
+}
+
+img .logo {
+  width: auto;
+  height: auto;
+}
+header .logo {
+  background-color: #222f3f;
+  padding: 0.1px 20px;
+}
+
+.underLogo {
+  background-color: #364759;
+}
+
+.navBar {
+  display: inline-block;
+  margin: 5px 20px;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+}
+
+/* MAIN */
+main {
+  width: 100%;
+}
+
+main .shop {
+  background-color: #f56600;
+  text-align: center;
+  color: white;
+  margin: 20px 20px;
+  padding: 8px;
+}
+
+.guides {
+  background-image: url(../images/bg-image.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-align: center;
+  padding: 50px 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.guides h1,
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px;
+}
+
+.guides h1 {
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+.annunci {
+  background-color: white;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+main .news {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 40px 40px 20px 40px;
+  padding-top: 20px;
+}
+
+.s1 {
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+.s2 {
+  color: #5195de;
+  font-weight: bold;
+}
+
+.images img {
+  display: inline-block;
+  width: 300px;
+  height: 241px;
+  vertical-align: top;
+  margin-left: 44px;
+  padding-bottom: 30px;
+  border-radius: 20px;
+}
+
+.image2 img {
+  width: 100%;
+  margin-top: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.play {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.play2 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.s3 {
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+.s4 {
+  color: #5195de;
+  font-weight: bold;
+}
+
+/* FOOTER */
+footer {
+  width: 100%;
+}
+
+.upLogo {
+  text-align: center;
+  margin-top: 20px;
+  background-color: #364759;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.upLogo a {
+  color: white;
+}
+
+.logo2 {
+  text-align: center;
+  background-color: #222f3f;
+}
+
+.logo2 img {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 150px;
+  height: 60px;
+}
